@@ -9,6 +9,9 @@ export default function Middle() {
       <h1 className="text-black text-3xl font-bold text-center">
         Maded by <p className="text-red-800">ADNAN KUMARI</p>
       </h1>
+      <h1 className="text-black">
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque, nihil!
+      </h1>
     </div>
   );
 }
